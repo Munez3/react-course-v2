@@ -13,10 +13,15 @@ import App8 from "./8_reducer/App8";
 import App9 from "./9_reducer_delete/App9";
 import App10 from "./10_sass/App10";
 import Index11 from "./11_context/index11";
+import Index12 from "./12_routing/index12";
+import Index13 from "./13_styled/index13";
+import Index14 from "./14_json/index14";
+import Index15 from "./15_ky/index15";
+import Index16 from "./16_effect/index16";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Index11 />
+    <App2 />
   </React.StrictMode>,
   document.getElementById("root")
 );
