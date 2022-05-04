@@ -21,7 +21,7 @@ import Index16 from "./16_effect/index16";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App2 />
+    <Index16 />
   </React.StrictMode>,
   document.getElementById("root")
 );
